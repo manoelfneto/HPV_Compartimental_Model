@@ -41,6 +41,7 @@ firstGen = [[0 for row in range(-1, 61)] for col in range(-1, 81)]
 temporary = [[0 for row in range(-1, 61)] for col in range(-1, 81)]
 
 
+
 def make_frames():
     processing()
     paint_cells()
@@ -59,30 +60,33 @@ def put_cells():
 
 
 def processing():
-    contador: 0
-    pessoas_susc = 0
-    pessoas_estado1 = 0
-    pessoas_estado2 = 0
 
     for y in range(0, 60):
         for x in range(0, 80):
             infected_neighbors_state1 = search_neigh_state1(x, y)  # vizinhos contaminados
             infected_neighbors_state2 = search_neigh_state2(x, y)  # vizingos apresentando sintomas
             sum_infect_neigh = infected_neighbors_state1 + infected_neighbors_state2
+            aleatory_cells = [Cell(0, 0, 13, 0), Cell(1, 2, 22, 0), Cell(1, 1, 33, 0), Cell(0, 0, 45, 0),
+                              Cell(0, 0, 25, 0), Cell(0, 0, 13, 1), Cell(0, 0, 13, 1), Cell(0, 0, 13, 1),
+                              Cell(0, 0, 13, 1), Cell(0, 0, 13, 1)]
 
             if firstGen[x][y].getinfect_time() > 12:
-                temporary[x][y] = Cell(0, 0, 16, 0)
+                temporary[x][y] = random.choice(aleatory_cells)
 
             else:
                 if firstGen[x][y].getstate() == 0:
-                    if sum_infect_neigh > 3:
+                    if (infected_neighbors_state1 > 5 or infected_neighbors_state2 > 5) and \
+                            (16 < firstGen[x][y].getage() > 25):
+                        temporary[x][y] = copy.copy(firstGen[x][y])
+                        temporary[x][y].setstate(1)
+                    elif infected_neighbors_state1 > 3 or infected_neighbors_state2 > 2:
                         temporary[x][y] = copy.copy(firstGen[x][y])
                         temporary[x][y].setstate(1)
                     else:
                         temporary[x][y] = copy.copy(firstGen[x][y])
 
-                if firstGen[x][y].getstate() == 1:
-                    if firstGen[x][y].getinfect_time() > 5 and firstGen[x][y].getinfect_time() < 8:
+                elif firstGen[x][y].getstate() == 1:
+                    if firstGen[x][y].getinfect_time() == 5:
                         temporary[x][y] = copy.copy(firstGen[x][y])
                         temporary[x][y].setstate(2)
                         temporary[x][y].setinfect_time(firstGen[x][y].getinfect_time() + 1)
@@ -90,7 +94,7 @@ def processing():
                         temporary[x][y] = copy.copy(firstGen[x][y])
                         temporary[x][y].setinfect_time(temporary[x][y].getinfect_time() + 1)
 
-                if firstGen[x][y].getstate() == 2:
+                elif firstGen[x][y].getstate() == 2:
                     if firstGen[x][y].getinfect_time() > 8:
                         temporary[x][y] = copy.copy(firstGen[x][y])
                         temporary[x][y].setstate(1)
@@ -99,25 +103,14 @@ def processing():
                     else:
                         temporary[x][y] = copy.copy(firstGen[x][y])
                         temporary[x][y].setinfect_time(temporary[x][y].getinfect_time() + 1)
-                print(temporary[x][y].getinfect_time())
-
-                # if contador == 11:
-                #     if temp[x][y].getstate() == 0:
-                #         pessoas_susc += 1
-                #     elif temp[x][y].getstate() == 1:
-                #         pessoas_estado1 += 1
-                #     elif temp[x][y].getstate() == 2:
-                #         pessoas_estado2 += 1
-                #     print("suscetiveis: %d" % pessoas_susc)
-                #     print("estado1: %d" % pessoas_estado1)
-                #     print("estado2: %d" % pessoas_estado2)
-
-    # contador += 1
-    print("--------------------------------------------------------")
 
     for y in range(0, 60):
         for x in range(0, 80):
             firstGen[x][y] = temporary[x][y]
+
+
+
+
 
 
 def search_neigh_state1(a, b):  # vizinhos contaminados
