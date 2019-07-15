@@ -41,7 +41,6 @@ firstGen = [[0 for row in range(-1, 61)] for col in range(-1, 81)]
 temporary = [[0 for row in range(-1, 61)] for col in range(-1, 81)]
 
 
-
 def make_frames():
     processing()
     paint_cells()
@@ -60,7 +59,6 @@ def put_cells():
 
 
 def processing():
-
     for y in range(0, 60):
         for x in range(0, 80):
             infected_neighbors_state1 = search_neigh_state1(x, y)  # vizinhos contaminados
@@ -107,10 +105,6 @@ def processing():
     for y in range(0, 60):
         for x in range(0, 80):
             firstGen[x][y] = temporary[x][y]
-
-
-
-
 
 
 def search_neigh_state1(a, b):  # vizinhos contaminados
