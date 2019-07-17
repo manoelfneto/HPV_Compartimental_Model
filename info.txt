@@ -1,0 +1,35 @@
+round: 1
+cells state 0: 3636
+cells state 1: 672
+cells state 2: 492
+----------------------------
+round: 2
+cells state 0: 3433
+cells state 1: 875
+cells state 2: 492
+----------------------------
+round: 3
+cells state 0: 3351
+cells state 1: 957
+cells state 2: 492
+----------------------------
+round: 4
+cells state 0: 3303
+cells state 1: 1005
+cells state 2: 492
+----------------------------
+round: 5
+cells state 0: 3270
+cells state 1: 1038
+cells state 2: 492
+----------------------------
+round: 6
+cells state 0: 3241
+cells state 1: 621
+cells state 2: 938
+----------------------------
+round: 7
+cells state 0: 2775
+cells state 1: 861
+cells state 2: 1164
+----------------------------
