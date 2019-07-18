@@ -1,7 +1,12 @@
 <component name="ProjectDictionaryState">
   <dictionary name="Silvio Meira">
     <words>
+      <w>getage</w>
+      <w>getgender</w>
       <w>getinfect</w>
+      <w>setage</w>
+      <w>setgender</w>
+      <w>setinfect</w>
     </words>
   </dictionary>
 </component>

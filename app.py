@@ -49,7 +49,7 @@ def make_frames():
 
 def put_cells():
     # state: 0 = susceptible, 1 = infected, 2 = developing symptoms
-    # age: groups; 15 - 24; 25 - 49; 50 - 69 
+    # age: groups; 15 - 24; 25 - 49; 50 - 69
     # man = 0  woman = 1
     aleatory_cells = [Cell(1, 2, 15, 0), Cell(0, 0, 22, 0), Cell(1, 1, 52, 0), Cell(0, 0, 59, 0), Cell(0, 0, 26, 0),
                       Cell(0, 1, 17, 1), Cell(0, 0, 19, 1), Cell(0, 0, 57, 1), Cell(0, 0, 61, 1), Cell(0, 0, 28, 1),
