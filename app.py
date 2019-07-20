@@ -119,6 +119,7 @@ def processing():
     content = archive2.readlines()
     number_of_lines = len(content)
     archive.write("round: %d" % ((number_of_lines / 5) + 1) + "\n")
+    print((number_of_lines / 5) + 1)
     archive.write("cells state 0: %d" % cells_state_0 + "\n")
     archive.write("cells state 1: %d" % cells_state_1 + "\n")
     archive.write("cells state 2: %d" % cells_state_2 + "\n")
