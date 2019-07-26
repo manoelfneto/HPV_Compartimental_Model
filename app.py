@@ -84,11 +84,11 @@ def processing():
             else:
                 if firstGen[x][y].getstate() == 0:
                     cells_state_0 += 1
-                    if (infected_neighbors_state1 > 5 or infected_neighbors_state2 > 5) and \
+                    if (infected_neighbors_state1 > 3 or infected_neighbors_state2 > 2) and \
                             (16 < firstGen[x][y].getage() > 25):
                         temporary[x][y] = copy.copy(firstGen[x][y])
                         temporary[x][y].setstate(1)
-                    elif infected_neighbors_state1 > 3 or infected_neighbors_state2 > 2:
+                    elif infected_neighbors_state1 > 4 or infected_neighbors_state2 > 3:
                         temporary[x][y] = copy.copy(firstGen[x][y])
                         temporary[x][y].setstate(1)
                     else:

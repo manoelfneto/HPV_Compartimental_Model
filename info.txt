@@ -1,490 +1,135 @@
 round: 1
-cells state 0: 3541
-cells state 1: 753
-cells state 2: 506
+cells state 0: 3568
+cells state 1: 729
+cells state 2: 503
 ----------------------------
 round: 2
-cells state 0: 3270
-cells state 1: 1024
-cells state 2: 506
+cells state 0: 3393
+cells state 1: 904
+cells state 2: 503
 ----------------------------
 round: 3
-cells state 0: 3129
-cells state 1: 1165
-cells state 2: 506
+cells state 0: 3324
+cells state 1: 973
+cells state 2: 503
 ----------------------------
 round: 4
-cells state 0: 3027
-cells state 1: 1267
-cells state 2: 506
+cells state 0: 3274
+cells state 1: 1023
+cells state 2: 503
 ----------------------------
 round: 5
-cells state 0: 2942
-cells state 1: 1352
-cells state 2: 506
+cells state 0: 3237
+cells state 1: 1060
+cells state 2: 503
 ----------------------------
 round: 6
-cells state 0: 2868
-cells state 1: 910
-cells state 2: 1022
+cells state 0: 3212
+cells state 1: 607
+cells state 2: 981
 ----------------------------
 round: 7
-cells state 0: 2407
-cells state 1: 1134
-cells state 2: 1259
+cells state 0: 2863
+cells state 1: 705
+cells state 2: 1232
 ----------------------------
 round: 8
-cells state 0: 2145
-cells state 1: 1125
-cells state 2: 1530
+cells state 0: 2598
+cells state 1: 795
+cells state 2: 1407
 ----------------------------
 round: 9
-cells state 0: 1930
-cells state 1: 1199
-cells state 2: 1671
+cells state 0: 2420
+cells state 1: 904
+cells state 2: 1476
 ----------------------------
 round: 10
-cells state 0: 1820
-cells state 1: 2229
-cells state 2: 751
+cells state 0: 2367
+cells state 1: 1888
+cells state 2: 545
 ----------------------------
 round: 11
-cells state 0: 1477
-cells state 1: 2724
-cells state 2: 599
+cells state 0: 2123
+cells state 1: 2346
+cells state 2: 331
 ----------------------------
 round: 12
-cells state 0: 1139
-cells state 1: 3259
-cells state 2: 402
+cells state 0: 1799
+cells state 1: 2820
+cells state 2: 181
 ----------------------------
 round: 13
-cells state 0: 852
-cells state 1: 2204
-cells state 2: 722
+cells state 0: 1525
+cells state 1: 1833
+cells state 2: 461
 ----------------------------
 round: 14
-cells state 0: 1432
-cells state 1: 2145
-cells state 2: 986
+cells state 0: 2089
+cells state 1: 1701
+cells state 2: 759
 ----------------------------
 round: 15
-cells state 0: 846
-cells state 1: 2541
-cells state 2: 1142
+cells state 0: 1714
+cells state 1: 1991
+cells state 2: 920
 ----------------------------
 round: 16
-cells state 0: 766
-cells state 1: 2691
-cells state 2: 1202
+cells state 0: 1587
+cells state 1: 2180
+cells state 2: 964
 ----------------------------
 round: 17
-cells state 0: 604
-cells state 1: 2998
-cells state 2: 1096
+cells state 0: 1454
+cells state 1: 2434
+cells state 2: 862
 ----------------------------
 round: 18
-cells state 0: 497
-cells state 1: 3033
-cells state 2: 1185
+cells state 0: 1346
+cells state 1: 2493
+cells state 2: 924
 ----------------------------
 round: 19
-cells state 0: 406
-cells state 1: 2947
-cells state 2: 1373
+cells state 0: 1277
+cells state 1: 2378
+cells state 2: 1120
 ----------------------------
 round: 20
-cells state 0: 361
-cells state 1: 2447
-cells state 2: 1531
+cells state 0: 1207
+cells state 1: 1908
+cells state 2: 1336
 ----------------------------
 round: 21
-cells state 0: 618
-cells state 1: 1888
-cells state 2: 2032
+cells state 0: 1388
+cells state 1: 1423
+cells state 2: 1724
 ----------------------------
 round: 22
-cells state 0: 442
-cells state 1: 2111
-cells state 2: 2032
+cells state 0: 1320
+cells state 1: 1595
+cells state 2: 1707
 ----------------------------
 round: 23
-cells state 0: 366
-cells state 1: 2475
-cells state 2: 1849
+cells state 0: 1248
+cells state 1: 2036
+cells state 2: 1463
 ----------------------------
 round: 24
-cells state 0: 253
-cells state 1: 2431
-cells state 2: 1773
+cells state 0: 1116
+cells state 1: 2103
+cells state 2: 1337
 ----------------------------
 round: 25
-cells state 0: 402
-cells state 1: 2925
-cells state 2: 1135
+cells state 0: 1215
+cells state 1: 2412
+cells state 2: 849
 ----------------------------
 round: 26
-cells state 0: 369
-cells state 1: 2942
-cells state 2: 996
+cells state 0: 1239
+cells state 1: 2380
+cells state 2: 727
 ----------------------------
 round: 27
-cells state 0: 481
-cells state 1: 3149
-cells state 2: 884
-----------------------------
-round: 28
-cells state 0: 308
-cells state 1: 2558
-cells state 2: 1109
-----------------------------
-round: 29
-cells state 0: 743
-cells state 1: 2471
-cells state 2: 1261
-----------------------------
-round: 30
-cells state 0: 327
-cells state 1: 2832
-cells state 2: 1343
-----------------------------
-round: 31
-cells state 0: 285
-cells state 1: 2927
-cells state 2: 1376
-----------------------------
-round: 32
-cells state 0: 223
-cells state 1: 3105
-cells state 2: 1305
-----------------------------
-round: 33
-cells state 0: 183
-cells state 1: 3059
-cells state 2: 1365
-----------------------------
-round: 34
-cells state 0: 200
-cells state 1: 2847
-cells state 2: 1591
-----------------------------
-round: 35
-cells state 0: 173
-cells state 1: 2499
-cells state 2: 1696
-----------------------------
-round: 36
-cells state 0: 379
-cells state 1: 2096
-cells state 2: 2053
-----------------------------
-round: 37
-cells state 0: 239
-cells state 1: 2253
-cells state 2: 2038
-----------------------------
-round: 38
-cells state 0: 255
-cells state 1: 2576
-cells state 2: 1770
-----------------------------
-round: 39
-cells state 0: 188
-cells state 1: 2552
-cells state 2: 1665
-----------------------------
-round: 40
-cells state 0: 341
-cells state 1: 3012
-cells state 2: 1103
-----------------------------
-round: 41
-cells state 0: 275
-cells state 1: 2961
-cells state 2: 1032
-----------------------------
-round: 42
-cells state 0: 428
-cells state 1: 3044
-cells state 2: 1007
-----------------------------
-round: 43
-cells state 0: 266
-cells state 1: 2601
-cells state 2: 1188
-----------------------------
-round: 44
-cells state 0: 594
-cells state 1: 2570
-cells state 2: 1325
-----------------------------
-round: 45
-cells state 0: 268
-cells state 1: 2887
-cells state 2: 1380
-----------------------------
-round: 46
-cells state 0: 219
-cells state 1: 2960
-cells state 2: 1403
-----------------------------
-round: 47
-cells state 0: 190
-cells state 1: 3025
-cells state 2: 1419
-----------------------------
-round: 48
-cells state 0: 146
-cells state 1: 2918
-cells state 2: 1498
-----------------------------
-round: 49
-cells state 0: 203
-cells state 1: 2671
-cells state 2: 1712
-----------------------------
-round: 50
-cells state 0: 187
-cells state 1: 2435
-cells state 2: 1792
-----------------------------
-round: 51
-cells state 0: 325
-cells state 1: 2240
-cells state 2: 1986
-----------------------------
-round: 52
-cells state 0: 219
-cells state 1: 2318
-cells state 2: 1967
-----------------------------
-round: 53
-cells state 0: 254
-cells state 1: 2641
-cells state 2: 1653
-----------------------------
-round: 54
-cells state 0: 232
-cells state 1: 2604
-cells state 2: 1523
-----------------------------
-round: 55
-cells state 0: 354
-cells state 1: 3014
-cells state 2: 1095
-----------------------------
-round: 56
-cells state 0: 273
-cells state 1: 2929
-cells state 2: 1037
-----------------------------
-round: 57
-cells state 0: 468
-cells state 1: 2951
-cells state 2: 1040
-----------------------------
-round: 58
-cells state 0: 281
-cells state 1: 2715
-cells state 2: 1184
-----------------------------
-round: 59
-cells state 0: 481
-cells state 1: 2700
-cells state 2: 1311
-----------------------------
-round: 60
-cells state 0: 241
-cells state 1: 2941
-cells state 2: 1376
-----------------------------
-round: 61
-cells state 0: 207
-cells state 1: 2939
-cells state 2: 1437
-----------------------------
-round: 62
-cells state 0: 171
-cells state 1: 2963
-cells state 2: 1492
-----------------------------
-round: 63
-cells state 0: 139
-cells state 1: 2835
-cells state 2: 1567
-----------------------------
-round: 64
-cells state 0: 202
-cells state 1: 2585
-cells state 2: 1784
-----------------------------
-round: 65
-cells state 0: 182
-cells state 1: 2431
-cells state 2: 1833
-----------------------------
-round: 66
-cells state 0: 273
-cells state 1: 2327
-cells state 2: 1945
-----------------------------
-round: 67
-cells state 0: 200
-cells state 1: 2387
-cells state 2: 1889
-----------------------------
-round: 68
-cells state 0: 255
-cells state 1: 2684
-cells state 2: 1559
-----------------------------
-round: 69
-cells state 0: 245
-cells state 1: 2693
-cells state 2: 1427
-----------------------------
-round: 70
-cells state 0: 343
-cells state 1: 3008
-cells state 2: 1108
-----------------------------
-round: 71
-cells state 0: 285
-cells state 1: 2849
-cells state 2: 1083
-----------------------------
-round: 72
-cells state 0: 444
-cells state 1: 2874
-cells state 2: 1118
-----------------------------
-round: 73
-cells state 0: 287
-cells state 1: 2755
-cells state 2: 1235
-----------------------------
-round: 74
-cells state 0: 381
-cells state 1: 2809
-cells state 2: 1331
-----------------------------
-round: 75
-cells state 0: 222
-cells state 1: 2954
-cells state 2: 1380
-----------------------------
-round: 76
-cells state 0: 198
-cells state 1: 2928
-cells state 2: 1455
-----------------------------
-round: 77
-cells state 0: 178
-cells state 1: 2888
-cells state 2: 1540
-----------------------------
-round: 78
-cells state 0: 142
-cells state 1: 2737
-cells state 2: 1644
-----------------------------
-round: 79
-cells state 0: 208
-cells state 1: 2497
-cells state 2: 1854
-----------------------------
-round: 80
-cells state 0: 197
-cells state 1: 2377
-cells state 2: 1893
-----------------------------
-round: 81
-cells state 0: 263
-cells state 1: 2414
-cells state 2: 1857
-----------------------------
-round: 82
-cells state 0: 214
-cells state 1: 2515
-cells state 2: 1738
-----------------------------
-round: 83
-cells state 0: 262
-cells state 1: 2817
-cells state 2: 1409
-----------------------------
-round: 84
-cells state 0: 239
-cells state 1: 2794
-cells state 2: 1305
-----------------------------
-round: 85
-cells state 0: 363
-cells state 1: 2955
-cells state 2: 1099
-----------------------------
-round: 86
-cells state 0: 281
-cells state 1: 2819
-cells state 2: 1122
-----------------------------
-round: 87
-cells state 0: 425
-cells state 1: 2834
-cells state 2: 1179
-----------------------------
-round: 88
-cells state 0: 268
-cells state 1: 2830
-cells state 2: 1280
-----------------------------
-round: 89
-cells state 0: 310
-cells state 1: 2841
-cells state 2: 1389
-----------------------------
-round: 90
-cells state 0: 193
-cells state 1: 2906
-cells state 2: 1459
-----------------------------
-round: 91
-cells state 0: 189
-cells state 1: 2836
-cells state 2: 1532
-----------------------------
-round: 92
-cells state 0: 186
-cells state 1: 2753
-cells state 2: 1666
-----------------------------
-round: 93
-cells state 0: 158
-cells state 1: 2632
-cells state 2: 1735
-----------------------------
-round: 94
-cells state 0: 227
-cells state 1: 2445
-cells state 2: 1880
-----------------------------
-round: 95
-cells state 0: 182
-cells state 1: 2392
-cells state 2: 1897
-----------------------------
-round: 96
-cells state 0: 261
-cells state 1: 2486
-cells state 2: 1758
-----------------------------
-round: 97
-cells state 0: 223
-cells state 1: 2599
-cells state 2: 1619
-----------------------------
-round: 98
-cells state 0: 286
-cells state 1: 2850
-cells state 2: 1335
+cells state 0: 1313
+cells state 1: 2506
+cells state 2: 694
 ----------------------------
