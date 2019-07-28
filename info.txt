@@ -1,336 +1,480 @@
-round: 1
-cells state 0: 3574
-cells state 1: 759
-cells state 2: 467
-youngs: 1193 
+mounth: 1
+cells susceptible: 3572
+cells infected: 750
+cells with symptoms: 478
+young: 1202 
+young woman infected: 248 
+young man infected: 0 
 ----------------------------
-round: 2
-cells state 0: 3404
-cells state 1: 929
-cells state 2: 467
-youngs: 1193 
+mounth: 2
+cells susceptible: 3377
+cells infected: 945
+cells with symptoms: 478
+young: 1202 
+young woman infected: 253 
+young man infected: 7 
 ----------------------------
-round: 3
-cells state 0: 3324
-cells state 1: 1009
-cells state 2: 467
-youngs: 1193 
+mounth: 3
+cells susceptible: 3312
+cells infected: 1010
+cells with symptoms: 478
+young: 1202 
+young woman infected: 253 
+young man infected: 11 
 ----------------------------
-round: 4
-cells state 0: 3259
-cells state 1: 1074
-cells state 2: 467
-youngs: 1193 
+mounth: 4
+cells susceptible: 3272
+cells infected: 1050
+cells with symptoms: 478
+young: 1202 
+young woman infected: 255 
+young man infected: 17 
 ----------------------------
-round: 5
-cells state 0: 3211
-cells state 1: 1122
-cells state 2: 467
-youngs: 1193 
+mounth: 5
+cells susceptible: 3239
+cells infected: 1083
+cells with symptoms: 478
+young: 1202 
+young woman infected: 257 
+young man infected: 22 
 ----------------------------
-round: 6
-cells state 0: 3176
-cells state 1: 643
-cells state 2: 981
-youngs: 1193 
+mounth: 6
+cells susceptible: 3214
+cells infected: 606
+cells with symptoms: 980
+young: 1202 
+young woman infected: 257 
+young man infected: 23 
 ----------------------------
-round: 7
-cells state 0: 2822
-cells state 1: 752
-cells state 2: 1226
-youngs: 1193 
+mounth: 7
+cells susceptible: 2863
+cells infected: 709
+cells with symptoms: 1228
+young: 1202 
+young woman infected: 281 
+young man infected: 45 
 ----------------------------
-round: 8
-cells state 0: 2561
-cells state 1: 843
-cells state 2: 1396
-youngs: 1193 
+mounth: 8
+cells susceptible: 2600
+cells infected: 777
+cells with symptoms: 1423
+young: 1202 
+young woman infected: 305 
+young man infected: 64 
 ----------------------------
-round: 9
-cells state 0: 2412
-cells state 1: 912
-cells state 2: 1476
-youngs: 1193 
+mounth: 9
+cells susceptible: 2421
+cells infected: 891
+cells with symptoms: 1488
+young: 1202 
+young woman infected: 327 
+young man infected: 88 
 ----------------------------
-round: 10
-cells state 0: 2353
-cells state 1: 1887
-cells state 2: 560
-youngs: 1193 
+mounth: 10
+cells susceptible: 2371
+cells infected: 1881
+cells with symptoms: 548
+young: 1202 
+young woman infected: 338 
+young man infected: 93 
 ----------------------------
-round: 11
-cells state 0: 2113
-cells state 1: 2324
-cells state 2: 363
-youngs: 1193 
+mounth: 11
+cells susceptible: 2117
+cells infected: 2350
+cells with symptoms: 333
+young: 1202 
+young woman infected: 372 
+young man infected: 139 
 ----------------------------
-round: 12
-cells state 0: 1839
-cells state 1: 2733
-cells state 2: 228
-youngs: 1193 
+mounth: 12
+cells susceptible: 1819
+cells infected: 2818
+cells with symptoms: 163
+young: 1202 
+young woman infected: 426 
+young man infected: 183 
 ----------------------------
-round: 13
-cells state 0: 1571
-cells state 1: 1746
-cells state 2: 502
-youngs: 1193 
+mounth: 13
+cells susceptible: 1553
+cells infected: 1818
+cells with symptoms: 449
+young: 1202 
+young woman infected: 468 
+young man infected: 230 
 ----------------------------
-round: 14
-cells state 0: 2099
-cells state 1: 1675
-cells state 2: 781
-youngs: 1438 
+mounth: 14
+cells susceptible: 2079
+cells infected: 1693
+cells with symptoms: 780
+young: 1445 
+young woman infected: 553 
+young man infected: 257 
 ----------------------------
-round: 15
-cells state 0: 1764
-cells state 1: 1966
-cells state 2: 900
-youngs: 1260 
+mounth: 15
+cells susceptible: 1731
+cells infected: 1922
+cells with symptoms: 952
+young: 1251 
+young woman infected: 371 
+young man infected: 318 
 ----------------------------
-round: 16
-cells state 0: 1657
-cells state 1: 2129
-cells state 2: 934
-youngs: 1306 
+mounth: 16
+cells susceptible: 1645
+cells infected: 2091
+cells with symptoms: 999
+young: 1281 
+young woman infected: 401 
+young man infected: 337 
 ----------------------------
-round: 17
-cells state 0: 1543
-cells state 1: 2363
-cells state 2: 829
-youngs: 1312 
+mounth: 17
+cells susceptible: 1519
+cells infected: 2333
+cells with symptoms: 908
+young: 1292 
+young woman infected: 426 
+young man infected: 350 
 ----------------------------
-round: 18
-cells state 0: 1419
-cells state 1: 2485
-cells state 2: 848
-youngs: 1312 
+mounth: 18
+cells susceptible: 1407
+cells infected: 2413
+cells with symptoms: 947
+young: 1289 
+young woman infected: 447 
+young man infected: 373 
 ----------------------------
-round: 19
-cells state 0: 1321
-cells state 1: 2354
-cells state 2: 1090
-youngs: 1312 
+mounth: 19
+cells susceptible: 1325
+cells infected: 2305
+cells with symptoms: 1145
+young: 1289 
+young woman infected: 463 
+young man infected: 380 
 ----------------------------
-round: 20
-cells state 0: 1260
-cells state 1: 1872
-cells state 2: 1314
-youngs: 1315 
+mounth: 20
+cells susceptible: 1270
+cells infected: 1822
+cells with symptoms: 1357
+young: 1293 
+young woman infected: 468 
+young man infected: 391 
 ----------------------------
-round: 21
-cells state 0: 1460
-cells state 1: 1419
-cells state 2: 1660
-youngs: 1360 
+mounth: 21
+cells susceptible: 1478
+cells infected: 1347
+cells with symptoms: 1712
+young: 1331 
+young woman infected: 461 
+young man infected: 378 
 ----------------------------
-round: 22
-cells state 0: 1379
-cells state 1: 1606
-cells state 2: 1666
-youngs: 1376 
+mounth: 22
+cells susceptible: 1400
+cells infected: 1532
+cells with symptoms: 1689
+young: 1340 
+young woman infected: 476 
+young man infected: 391 
 ----------------------------
-round: 23
-cells state 0: 1296
-cells state 1: 2058
-cells state 2: 1387
-youngs: 1380 
+mounth: 23
+cells susceptible: 1332
+cells infected: 2007
+cells with symptoms: 1411
+young: 1342 
+young woman infected: 487 
+young man infected: 395 
 ----------------------------
-round: 24
-cells state 0: 1182
-cells state 1: 2092
-cells state 2: 1286
-youngs: 1378 
+mounth: 24
+cells susceptible: 1203
+cells infected: 2067
+cells with symptoms: 1276
+young: 1338 
+young woman infected: 488 
+young man infected: 409 
 ----------------------------
-round: 25
-cells state 0: 1268
-cells state 1: 2380
-cells state 2: 878
-youngs: 1378 
+mounth: 25
+cells susceptible: 1311
+cells infected: 2378
+cells with symptoms: 813
+young: 1334 
+young woman infected: 487 
+young man infected: 380 
 ----------------------------
-round: 26
-cells state 0: 1241
-cells state 1: 2332
-cells state 2: 757
-youngs: 1358 
+mounth: 26
+cells susceptible: 1292
+cells infected: 2321
+cells with symptoms: 706
+young: 1302 
+young woman infected: 490 
+young man infected: 372 
 ----------------------------
-round: 27
-cells state 0: 1374
-cells state 1: 2410
-cells state 2: 721
-youngs: 1388 
+mounth: 27
+cells susceptible: 1409
+cells infected: 2448
+cells with symptoms: 657
+young: 1339 
+young woman infected: 503 
+young man infected: 361 
 ----------------------------
-round: 28
-cells state 0: 1228
-cells state 1: 2129
-cells state 2: 879
-youngs: 1346 
+mounth: 28
+cells susceptible: 1260
+cells infected: 2104
+cells with symptoms: 843
+young: 1313 
+young woman infected: 485 
+young man infected: 380 
 ----------------------------
-round: 29
-cells state 0: 1448
-cells state 1: 2081
-cells state 2: 1005
-youngs: 1363 
+mounth: 29
+cells susceptible: 1514
+cells infected: 2036
+cells with symptoms: 1001
+young: 1333 
+young woman infected: 487 
+young man infected: 345 
 ----------------------------
-round: 30
-cells state 0: 1216
-cells state 1: 2336
-cells state 2: 1060
-youngs: 1353 
+mounth: 30
+cells susceptible: 1262
+cells infected: 2287
+cells with symptoms: 1061
+young: 1332 
+young woman infected: 512 
+young man infected: 367 
 ----------------------------
-round: 31
-cells state 0: 1127
-cells state 1: 2407
-cells state 2: 1079
-youngs: 1335 
+mounth: 31
+cells susceptible: 1174
+cells infected: 2393
+cells with symptoms: 1085
+young: 1339 
+young woman infected: 530 
+young man infected: 383 
 ----------------------------
-round: 32
-cells state 0: 1093
-cells state 1: 2476
-cells state 2: 1087
-youngs: 1336 
+mounth: 32
+cells susceptible: 1119
+cells infected: 2480
+cells with symptoms: 1088
+young: 1330 
+young woman infected: 542 
+young man infected: 377 
 ----------------------------
-round: 33
-cells state 0: 1055
-cells state 1: 2427
-cells state 2: 1166
-youngs: 1336 
+mounth: 33
+cells susceptible: 1085
+cells infected: 2408
+cells with symptoms: 1161
+young: 1324 
+young woman infected: 549 
+young man infected: 381 
 ----------------------------
-round: 34
-cells state 0: 1033
-cells state 1: 2216
-cells state 2: 1408
-youngs: 1352 
+mounth: 34
+cells susceptible: 1095
+cells infected: 2172
+cells with symptoms: 1401
+young: 1351 
+young woman infected: 571 
+young man infected: 378 
 ----------------------------
-round: 35
-cells state 0: 1040
-cells state 1: 1923
-cells state 2: 1525
-youngs: 1343 
+mounth: 35
+cells susceptible: 1070
+cells infected: 1910
+cells with symptoms: 1508
+young: 1364 
+young woman infected: 585 
+young man infected: 387 
 ----------------------------
-round: 36
-cells state 0: 1147
-cells state 1: 1735
-cells state 2: 1690
-youngs: 1339 
+mounth: 36
+cells susceptible: 1203
+cells infected: 1696
+cells with symptoms: 1668
+young: 1372 
+young woman infected: 579 
+young man infected: 374 
 ----------------------------
-round: 37
-cells state 0: 1108
-cells state 1: 1865
-cells state 2: 1631
-youngs: 1338 
+mounth: 37
+cells susceptible: 1153
+cells infected: 1832
+cells with symptoms: 1612
+young: 1359 
+young woman infected: 582 
+young man infected: 370 
 ----------------------------
-round: 38
-cells state 0: 1067
-cells state 1: 2188
-cells state 2: 1379
-youngs: 1343 
+mounth: 38
+cells susceptible: 1119
+cells infected: 2169
+cells with symptoms: 1345
+young: 1370 
+young woman infected: 597 
+young man infected: 376 
 ----------------------------
-round: 39
-cells state 0: 1031
-cells state 1: 2168
-cells state 2: 1273
-youngs: 1335 
+mounth: 39
+cells susceptible: 1085
+cells infected: 2157
+cells with symptoms: 1218
+young: 1364 
+young woman infected: 591 
+young man infected: 377 
 ----------------------------
-round: 40
-cells state 0: 1139
-cells state 1: 2352
-cells state 2: 976
-youngs: 1336 
+mounth: 40
+cells susceptible: 1220
+cells infected: 2376
+cells with symptoms: 868
+young: 1345 
+young woman infected: 572 
+young man infected: 354 
 ----------------------------
-round: 41
-cells state 0: 1141
-cells state 1: 2303
-cells state 2: 885
-youngs: 1329 
+mounth: 41
+cells susceptible: 1210
+cells infected: 2299
+cells with symptoms: 813
+young: 1339 
+young woman infected: 556 
+young man infected: 354 
 ----------------------------
-round: 42
-cells state 0: 1237
-cells state 1: 2392
-cells state 2: 875
-youngs: 1355 
+mounth: 42
+cells susceptible: 1307
+cells infected: 2394
+cells with symptoms: 816
+young: 1350 
+young woman infected: 551 
+young man infected: 333 
 ----------------------------
-round: 43
-cells state 0: 1103
-cells state 1: 2255
-cells state 2: 962
-youngs: 1338 
+mounth: 43
+cells susceptible: 1179
+cells infected: 2164
+cells with symptoms: 959
+young: 1331 
+young woman infected: 548 
+young man infected: 343 
 ----------------------------
-round: 44
-cells state 0: 1234
-cells state 1: 2232
-cells state 2: 1057
-youngs: 1345 
+mounth: 44
+cells susceptible: 1331
+cells infected: 2117
+cells with symptoms: 1084
+young: 1352 
+young woman infected: 549 
+young man infected: 319 
 ----------------------------
-round: 45
-cells state 0: 1096
-cells state 1: 2394
-cells state 2: 1102
-youngs: 1328 
+mounth: 45
+cells susceptible: 1183
+cells infected: 2299
+cells with symptoms: 1122
+young: 1339 
+young woman infected: 564 
+young man infected: 337 
 ----------------------------
-round: 46
-cells state 0: 1022
-cells state 1: 2470
-cells state 2: 1115
-youngs: 1334 
+mounth: 46
+cells susceptible: 1105
+cells infected: 2404
+cells with symptoms: 1144
+young: 1335 
+young woman infected: 576 
+young man infected: 336 
 ----------------------------
-round: 47
-cells state 0: 995
-cells state 1: 2462
-cells state 2: 1180
-youngs: 1325 
+mounth: 47
+cells susceptible: 1063
+cells infected: 2394
+cells with symptoms: 1206
+young: 1322 
+young woman infected: 585 
+young man infected: 340 
 ----------------------------
-round: 48
-cells state 0: 978
-cells state 1: 2357
-cells state 2: 1286
-youngs: 1315 
+mounth: 48
+cells susceptible: 1027
+cells infected: 2273
+cells with symptoms: 1305
+young: 1318 
+young woman infected: 585 
+young man infected: 346 
 ----------------------------
-round: 49
-cells state 0: 969
-cells state 1: 2189
-cells state 2: 1464
-youngs: 1323 
+mounth: 49
+cells susceptible: 1073
+cells infected: 2061
+cells with symptoms: 1496
+young: 1322 
+young woman infected: 573 
+young man infected: 343 
 ----------------------------
-round: 50
-cells state 0: 964
-cells state 1: 2023
-cells state 2: 1542
-youngs: 1316 
+mounth: 50
+cells susceptible: 1059
+cells infected: 1902
+cells with symptoms: 1559
+young: 1317 
+young woman infected: 569 
+young man infected: 340 
 ----------------------------
-round: 51
-cells state 0: 1012
-cells state 1: 1951
-cells state 2: 1613
-youngs: 1313 
+mounth: 51
+cells susceptible: 1113
+cells infected: 1875
+cells with symptoms: 1589
+young: 1332 
+young woman infected: 577 
+young man infected: 338 
 ----------------------------
-round: 52
-cells state 0: 980
-cells state 1: 2034
-cells state 2: 1545
-youngs: 1303 
+mounth: 52
+cells susceptible: 1081
+cells infected: 1967
+cells with symptoms: 1526
+young: 1326 
+young woman infected: 588 
+young man infected: 341 
 ----------------------------
-round: 53
-cells state 0: 980
-cells state 1: 2292
-cells state 2: 1308
-youngs: 1300 
+mounth: 53
+cells susceptible: 1081
+cells infected: 2253
+cells with symptoms: 1253
+young: 1347 
+young woman infected: 599 
+young man infected: 338 
 ----------------------------
-round: 54
-cells state 0: 961
-cells state 1: 2286
-cells state 2: 1201
-youngs: 1297 
+mounth: 54
+cells susceptible: 1056
+cells infected: 2209
+cells with symptoms: 1150
+young: 1330 
+young woman infected: 593 
+young man infected: 346 
 ----------------------------
-round: 55
-cells state 0: 1054
-cells state 1: 2403
-cells state 2: 990
-youngs: 1296 
+mounth: 55
+cells susceptible: 1179
+cells infected: 2386
+cells with symptoms: 903
+young: 1357 
+young woman infected: 591 
+young man infected: 333 
 ----------------------------
-round: 56
-cells state 0: 1036
-cells state 1: 2380
-cells state 2: 931
-youngs: 1283 
+mounth: 56
+cells susceptible: 1161
+cells infected: 2330
+cells with symptoms: 849
+young: 1356 
+young woman infected: 577 
+young man infected: 347 
+----------------------------
+mounth: 57
+cells susceptible: 1235
+cells infected: 2388
+cells with symptoms: 887
+young: 1377 
+young woman infected: 572 
+young man infected: 346 
+----------------------------
+mounth: 58
+cells susceptible: 1116
+cells infected: 2300
+cells with symptoms: 977
+young: 1364 
+young woman infected: 573 
+young man infected: 361 
+----------------------------
+mounth: 59
+cells susceptible: 1219
+cells infected: 2236
+cells with symptoms: 1086
+young: 1372 
+young woman infected: 570 
+young man infected: 348 
+----------------------------
+mounth: 60
+cells susceptible: 1090
+cells infected: 2394
+cells with symptoms: 1121
+young: 1371 
+young woman infected: 577 
+young man infected: 378 
 ----------------------------
