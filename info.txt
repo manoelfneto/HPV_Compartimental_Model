@@ -1,135 +1,336 @@
 round: 1
-cells state 0: 3568
-cells state 1: 729
-cells state 2: 503
+cells state 0: 3574
+cells state 1: 759
+cells state 2: 467
+youngs: 1193 
 ----------------------------
 round: 2
-cells state 0: 3393
-cells state 1: 904
-cells state 2: 503
+cells state 0: 3404
+cells state 1: 929
+cells state 2: 467
+youngs: 1193 
 ----------------------------
 round: 3
 cells state 0: 3324
-cells state 1: 973
-cells state 2: 503
+cells state 1: 1009
+cells state 2: 467
+youngs: 1193 
 ----------------------------
 round: 4
-cells state 0: 3274
-cells state 1: 1023
-cells state 2: 503
+cells state 0: 3259
+cells state 1: 1074
+cells state 2: 467
+youngs: 1193 
 ----------------------------
 round: 5
-cells state 0: 3237
-cells state 1: 1060
-cells state 2: 503
+cells state 0: 3211
+cells state 1: 1122
+cells state 2: 467
+youngs: 1193 
 ----------------------------
 round: 6
-cells state 0: 3212
-cells state 1: 607
+cells state 0: 3176
+cells state 1: 643
 cells state 2: 981
+youngs: 1193 
 ----------------------------
 round: 7
-cells state 0: 2863
-cells state 1: 705
-cells state 2: 1232
+cells state 0: 2822
+cells state 1: 752
+cells state 2: 1226
+youngs: 1193 
 ----------------------------
 round: 8
-cells state 0: 2598
-cells state 1: 795
-cells state 2: 1407
+cells state 0: 2561
+cells state 1: 843
+cells state 2: 1396
+youngs: 1193 
 ----------------------------
 round: 9
-cells state 0: 2420
-cells state 1: 904
+cells state 0: 2412
+cells state 1: 912
 cells state 2: 1476
+youngs: 1193 
 ----------------------------
 round: 10
-cells state 0: 2367
-cells state 1: 1888
-cells state 2: 545
+cells state 0: 2353
+cells state 1: 1887
+cells state 2: 560
+youngs: 1193 
 ----------------------------
 round: 11
-cells state 0: 2123
-cells state 1: 2346
-cells state 2: 331
+cells state 0: 2113
+cells state 1: 2324
+cells state 2: 363
+youngs: 1193 
 ----------------------------
 round: 12
-cells state 0: 1799
-cells state 1: 2820
-cells state 2: 181
+cells state 0: 1839
+cells state 1: 2733
+cells state 2: 228
+youngs: 1193 
 ----------------------------
 round: 13
-cells state 0: 1525
-cells state 1: 1833
-cells state 2: 461
+cells state 0: 1571
+cells state 1: 1746
+cells state 2: 502
+youngs: 1193 
 ----------------------------
 round: 14
-cells state 0: 2089
-cells state 1: 1701
-cells state 2: 759
+cells state 0: 2099
+cells state 1: 1675
+cells state 2: 781
+youngs: 1438 
 ----------------------------
 round: 15
-cells state 0: 1714
-cells state 1: 1991
-cells state 2: 920
+cells state 0: 1764
+cells state 1: 1966
+cells state 2: 900
+youngs: 1260 
 ----------------------------
 round: 16
-cells state 0: 1587
-cells state 1: 2180
-cells state 2: 964
+cells state 0: 1657
+cells state 1: 2129
+cells state 2: 934
+youngs: 1306 
 ----------------------------
 round: 17
-cells state 0: 1454
-cells state 1: 2434
-cells state 2: 862
+cells state 0: 1543
+cells state 1: 2363
+cells state 2: 829
+youngs: 1312 
 ----------------------------
 round: 18
-cells state 0: 1346
-cells state 1: 2493
-cells state 2: 924
+cells state 0: 1419
+cells state 1: 2485
+cells state 2: 848
+youngs: 1312 
 ----------------------------
 round: 19
-cells state 0: 1277
-cells state 1: 2378
-cells state 2: 1120
+cells state 0: 1321
+cells state 1: 2354
+cells state 2: 1090
+youngs: 1312 
 ----------------------------
 round: 20
-cells state 0: 1207
-cells state 1: 1908
-cells state 2: 1336
+cells state 0: 1260
+cells state 1: 1872
+cells state 2: 1314
+youngs: 1315 
 ----------------------------
 round: 21
-cells state 0: 1388
-cells state 1: 1423
-cells state 2: 1724
+cells state 0: 1460
+cells state 1: 1419
+cells state 2: 1660
+youngs: 1360 
 ----------------------------
 round: 22
-cells state 0: 1320
-cells state 1: 1595
-cells state 2: 1707
+cells state 0: 1379
+cells state 1: 1606
+cells state 2: 1666
+youngs: 1376 
 ----------------------------
 round: 23
-cells state 0: 1248
-cells state 1: 2036
-cells state 2: 1463
+cells state 0: 1296
+cells state 1: 2058
+cells state 2: 1387
+youngs: 1380 
 ----------------------------
 round: 24
-cells state 0: 1116
-cells state 1: 2103
-cells state 2: 1337
+cells state 0: 1182
+cells state 1: 2092
+cells state 2: 1286
+youngs: 1378 
 ----------------------------
 round: 25
-cells state 0: 1215
-cells state 1: 2412
-cells state 2: 849
+cells state 0: 1268
+cells state 1: 2380
+cells state 2: 878
+youngs: 1378 
 ----------------------------
 round: 26
-cells state 0: 1239
-cells state 1: 2380
-cells state 2: 727
+cells state 0: 1241
+cells state 1: 2332
+cells state 2: 757
+youngs: 1358 
 ----------------------------
 round: 27
-cells state 0: 1313
-cells state 1: 2506
-cells state 2: 694
+cells state 0: 1374
+cells state 1: 2410
+cells state 2: 721
+youngs: 1388 
+----------------------------
+round: 28
+cells state 0: 1228
+cells state 1: 2129
+cells state 2: 879
+youngs: 1346 
+----------------------------
+round: 29
+cells state 0: 1448
+cells state 1: 2081
+cells state 2: 1005
+youngs: 1363 
+----------------------------
+round: 30
+cells state 0: 1216
+cells state 1: 2336
+cells state 2: 1060
+youngs: 1353 
+----------------------------
+round: 31
+cells state 0: 1127
+cells state 1: 2407
+cells state 2: 1079
+youngs: 1335 
+----------------------------
+round: 32
+cells state 0: 1093
+cells state 1: 2476
+cells state 2: 1087
+youngs: 1336 
+----------------------------
+round: 33
+cells state 0: 1055
+cells state 1: 2427
+cells state 2: 1166
+youngs: 1336 
+----------------------------
+round: 34
+cells state 0: 1033
+cells state 1: 2216
+cells state 2: 1408
+youngs: 1352 
+----------------------------
+round: 35
+cells state 0: 1040
+cells state 1: 1923
+cells state 2: 1525
+youngs: 1343 
+----------------------------
+round: 36
+cells state 0: 1147
+cells state 1: 1735
+cells state 2: 1690
+youngs: 1339 
+----------------------------
+round: 37
+cells state 0: 1108
+cells state 1: 1865
+cells state 2: 1631
+youngs: 1338 
+----------------------------
+round: 38
+cells state 0: 1067
+cells state 1: 2188
+cells state 2: 1379
+youngs: 1343 
+----------------------------
+round: 39
+cells state 0: 1031
+cells state 1: 2168
+cells state 2: 1273
+youngs: 1335 
+----------------------------
+round: 40
+cells state 0: 1139
+cells state 1: 2352
+cells state 2: 976
+youngs: 1336 
+----------------------------
+round: 41
+cells state 0: 1141
+cells state 1: 2303
+cells state 2: 885
+youngs: 1329 
+----------------------------
+round: 42
+cells state 0: 1237
+cells state 1: 2392
+cells state 2: 875
+youngs: 1355 
+----------------------------
+round: 43
+cells state 0: 1103
+cells state 1: 2255
+cells state 2: 962
+youngs: 1338 
+----------------------------
+round: 44
+cells state 0: 1234
+cells state 1: 2232
+cells state 2: 1057
+youngs: 1345 
+----------------------------
+round: 45
+cells state 0: 1096
+cells state 1: 2394
+cells state 2: 1102
+youngs: 1328 
+----------------------------
+round: 46
+cells state 0: 1022
+cells state 1: 2470
+cells state 2: 1115
+youngs: 1334 
+----------------------------
+round: 47
+cells state 0: 995
+cells state 1: 2462
+cells state 2: 1180
+youngs: 1325 
+----------------------------
+round: 48
+cells state 0: 978
+cells state 1: 2357
+cells state 2: 1286
+youngs: 1315 
+----------------------------
+round: 49
+cells state 0: 969
+cells state 1: 2189
+cells state 2: 1464
+youngs: 1323 
+----------------------------
+round: 50
+cells state 0: 964
+cells state 1: 2023
+cells state 2: 1542
+youngs: 1316 
+----------------------------
+round: 51
+cells state 0: 1012
+cells state 1: 1951
+cells state 2: 1613
+youngs: 1313 
+----------------------------
+round: 52
+cells state 0: 980
+cells state 1: 2034
+cells state 2: 1545
+youngs: 1303 
+----------------------------
+round: 53
+cells state 0: 980
+cells state 1: 2292
+cells state 2: 1308
+youngs: 1300 
+----------------------------
+round: 54
+cells state 0: 961
+cells state 1: 2286
+cells state 2: 1201
+youngs: 1297 
+----------------------------
+round: 55
+cells state 0: 1054
+cells state 1: 2403
+cells state 2: 990
+youngs: 1296 
+----------------------------
+round: 56
+cells state 0: 1036
+cells state 1: 2380
+cells state 2: 931
+youngs: 1283 
 ----------------------------

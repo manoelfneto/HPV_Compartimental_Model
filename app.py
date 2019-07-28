@@ -67,6 +67,7 @@ def processing():
     cells_state_0 = 0
     cells_state_1 = 0
     cells_state_2 = 0
+    n_young = 0
 
     for y in range(0, 60):
         for x in range(0, 80):
@@ -77,6 +78,8 @@ def processing():
                               Cell(0, 0, 61, 1), Cell(0, 0, 28, 1), Cell(0, 0, 33, 0), Cell(1, 2, 45, 0),
                               Cell(1, 1, 29, 0), Cell(0, 0, 45, 0), Cell(0, 0, 25, 0), Cell(0, 0, 35, 1),
                               Cell(0, 0, 43, 1), Cell(0, 0, 36, 1), Cell(0, 0, 13, 1), Cell(0, 0, 24, 1)]
+            if 16 <= firstGen[x][y].getage() <= 25:
+                n_young += 1
 
             if firstGen[x][y].getinfect_time() > 12:
                 temporary[x][y] = random.choice(aleatory_cells)
@@ -118,11 +121,12 @@ def processing():
     archive2 = open("info.txt", "r")
     content = archive2.readlines()
     number_of_lines = len(content)
-    archive.write("round: %d" % ((number_of_lines / 5) + 1) + "\n")
-    print((number_of_lines / 5) + 1)
+    archive.write("round: %d" % ((number_of_lines / 6) + 1) + "\n")
+    print((number_of_lines / 6) + 1)
     archive.write("cells state 0: %d" % cells_state_0 + "\n")
     archive.write("cells state 1: %d" % cells_state_1 + "\n")
     archive.write("cells state 2: %d" % cells_state_2 + "\n")
+    archive.write("youngs: %d " % n_young + "\n")
     archive.write("----------------------------" + "\n")
 
     for y in range(0, 60):
