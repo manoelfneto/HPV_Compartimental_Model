@@ -40,6 +40,11 @@ cell = [[0 for row in range(-1, 61)] for col in range(-1, 81)]
 firstGen = [[0 for row in range(-1, 61)] for col in range(-1, 81)]
 temporary = [[0 for row in range(-1, 61)] for col in range(-1, 81)]
 
+aleatory_cells = [Cell(1, 2, 15, 0), Cell(0, 0, 22, 0), Cell(1, 1, 52, 0), Cell(0, 0, 59, 0), Cell(0, 0, 26, 0),
+                      Cell(0, 1, 17, 1), Cell(0, 0, 19, 1), Cell(0, 0, 57, 1), Cell(0, 0, 61, 1), Cell(0, 0, 28, 1),
+                      Cell(0, 0, 33, 0), Cell(1, 2, 45, 0), Cell(1, 1, 29, 0), Cell(0, 0, 45, 0), Cell(0, 0, 25, 0),
+                      Cell(0, 0, 35, 1), Cell(0, 0, 43, 1), Cell(0, 0, 36, 1), Cell(0, 0, 13, 1), Cell(0, 0, 24, 1)]
+
 
 def make_frames():
     processing()
@@ -51,10 +56,6 @@ def put_cells():
     # state: 0 = susceptible, 1 = infected, 2 = developing symptoms
     # age: groups; 15 - 24; 25 - 49; 50 - 69
     # man = 0  woman = 1
-    aleatory_cells = [Cell(1, 2, 15, 0), Cell(0, 0, 22, 0), Cell(1, 1, 52, 0), Cell(0, 0, 59, 0), Cell(0, 0, 26, 0),
-                      Cell(0, 1, 17, 1), Cell(0, 0, 19, 1), Cell(0, 0, 57, 1), Cell(0, 0, 61, 1), Cell(0, 0, 28, 1),
-                      Cell(0, 0, 33, 0), Cell(1, 2, 45, 0), Cell(1, 1, 29, 0), Cell(0, 0, 45, 0), Cell(0, 0, 25, 0),
-                      Cell(0, 0, 35, 1), Cell(0, 0, 43, 1), Cell(0, 0, 36, 1), Cell(0, 0, 13, 1), Cell(0, 0, 24, 1)]
 
     for y in range(-1, 61):
         for x in range(-1, 81):
@@ -75,11 +76,6 @@ def processing():
         for x in range(0, 80):
             infected_neighbors_state1 = search_neigh_state1(x, y)
             infected_neighbors_state2 = search_neigh_state2(x, y)
-            aleatory_cells = [Cell(1, 2, 15, 0), Cell(0, 0, 22, 0), Cell(1, 1, 52, 0), Cell(0, 0, 59, 0),
-                              Cell(0, 0, 26, 0), Cell(0, 1, 17, 1), Cell(0, 0, 19, 1), Cell(0, 0, 57, 1),
-                              Cell(0, 0, 61, 1), Cell(0, 0, 28, 1), Cell(0, 0, 33, 0), Cell(1, 2, 45, 0),
-                              Cell(1, 1, 29, 0), Cell(0, 0, 45, 0), Cell(0, 0, 25, 0), Cell(0, 0, 35, 1),
-                              Cell(0, 0, 43, 1), Cell(0, 0, 36, 1), Cell(0, 0, 13, 1), Cell(0, 0, 24, 1)]
             if 16 <= firstGen[x][y].getage() <= 25:
                 N_young += 1
                 if (firstGen[x][y].getgender() == 1) and (firstGen[x][y].getstate() == 1 or firstGen[x][y].getstate() == 2):
