@@ -83,7 +83,6 @@ def processing():
                 if (firstGen[x][y].getgender() == 0) and (firstGen[x][y].getstate() == 1 or firstGen[x][y].getstate() == 2):
                     young_man_infected += 1
 
-
             if firstGen[x][y].getinfect_time() > 12:
                 temporary[x][y] = random.choice(aleatory_cells)
 

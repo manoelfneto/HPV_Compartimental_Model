@@ -51,7 +51,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\manoe\OneDrive\Área de Trabalho\repositorios\HPV_Compartimental_Model\HPV_Aut_V01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562629148690</updated>
-      <workItem from="1566776996188" duration="377000" />
+      <workItem from="1566776996188" duration="667000" />
     </task>
     <servers />
   </component>
